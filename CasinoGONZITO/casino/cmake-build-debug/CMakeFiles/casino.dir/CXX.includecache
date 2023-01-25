@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Maria/Desktop/casino/Model/DosColores.cpp
+DosColores.h
+C:/Users/Maria/Desktop/casino/Model/DosColores.h
+
+C:/Users/Maria/Desktop/casino/Model/DosColores.h
+Juego.h
+C:/Users/Maria/Desktop/casino/Model/Juego.h
+cstdlib
+-
+ctime
+-
+
+C:/Users/Maria/Desktop/casino/Model/Juego.h
+Jugador.h
+C:/Users/Maria/Desktop/casino/Model/Jugador.h
+
+C:/Users/Maria/Desktop/casino/Model/Jugador.h
+iostream
+-
+string
+-
+
